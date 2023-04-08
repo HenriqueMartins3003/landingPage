@@ -1,10 +1,13 @@
 :root{
     
     --primary-color: #daa520fa;
-    --second-color: #B8860B;
+    --second-color: #ecaf15;
     --thirdy-color: crimson;
     --white-color: rgb(255, 255, 255);
     --gap: 3rem;
     --light-gray-color: #dcdcdc;
+    --darkwhite-color: rgb(255, 255, 204)
     
 }
+
+/*  */
